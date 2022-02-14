@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Advance C++ language**
 
-- 👨‍💻 All of my projects are available at [http://wolfgunner0191.herokuapp.com/](https://piyushyadav-0191.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://wolfgunner0191.netlify.app/](https://piyushyadav-0191.vercel.app/)
 
 - 📝 I regularly write articles on [https://piyushnation.blogspot.com/](https://piyushnation.blogspot.com/)
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **piyushyadav0191@gmail.com**
 
-- 📄 Know about my experiences [http://wolfgunner0191.herokuapp.com/](https://piyushyadav-0191.vercel.app/)
+- 📄 Know about my experiences [https://wolfgunner0191.netlify.app/](https://piyushyadav-0191.vercel.app/)
 
 - ⚡ Fun fact **I mind my mind, i don't mind.**
 
