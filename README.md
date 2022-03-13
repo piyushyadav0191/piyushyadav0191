@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [PORTFOLIO](https://wolfgunner0191.netlify.app/)
 
-- 📝 I regularly write articles on [https://piyushnation.blogspot.com/](https://piyushnation.blogspot.com/)
+- 📝 I regularly write articles on [Personal Blog](https://wolfgunner.hashnode.dev/)
 
 - 💬 Ask me about **HTML, CSS, JS, REACTJS, NODEJS, DBMS, C++, C**
 
