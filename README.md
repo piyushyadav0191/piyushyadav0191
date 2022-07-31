@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [PORTFOLIO](https://piyushyadav0191.tk/)
 
-- 📝 I regularly write articles on [Personal Blog](https://wolfgunner.hashnode.dev/)
+- 📝 I regularly write articles on [Personal Blog](https://medium.com/@piyushyadav0191/)
 
 - 💬 Ask me about **HTML, CSS, JS, REACTJS, NODEJS, DBMS, C++, C**
 
