@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyushyadav0191&label=Profile%20views&color=0e75b6&style=flat" alt="piyushyadav0191" /> </p>
 
-- 🌱 I’m currently learning **Advance C++ language**
+- 🌱 I’m currently pursuing my degree 
 
 - 👨‍💻 All of my projects are available at [PORTFOLIO](https://piyushyadav0191.tk/)
 
