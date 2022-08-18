@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently Learning lots of new technology.
 
-- 👨‍💻 All of my projects are available at [PORTFOLIO](https://piyushyadav0191.tk/)
+- 👨‍💻 All of my projects are available at [PORTFOLIO](https://piyushyadav.tk/)
 
 - 📝 I regularly write articles on [Personal Blog](https://medium.com/@piyushyadav0191/)
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **piyushyadav0191@gmail.com**
 
-- 📄 Know about my experiences [PORTFOLIO](https://piyushyada.tk/)
+- 📄 Know about my experiences [PORTFOLIO](https://piyushyadav.tk/)
 
 - ⚡ Fun fact **I mind my mind, i don't mind.**
 
