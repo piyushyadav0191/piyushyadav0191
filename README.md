@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [Personal Blog](https://medium.com/@piyushyadav0191/)
 
-- 💬 Ask me about **HTML, CSS, JS, REACTJS, NODEJS, DBMS, C++, C**
+- 💬 Ask me about **Full Stack Development**
 
 - 📫 How to reach me **piyushyadav0191@gmail.com**
 
