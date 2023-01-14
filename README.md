@@ -121,7 +121,7 @@ In more spare time, I like to binge watching animes
 
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=azkniay3q3u68j0ohpltjfyi2&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true" /></div>  
+<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=azkniay3q3u68j0ohpltjfyi2&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div>  
 
 <br/>  
 
