@@ -1,6 +1,6 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
+
+![Piyush](https://user-images.githubusercontent.com/84402719/232544373-350698d9-daf6-405d-8bb1-a0750f2d1d10.png)
+
   
 
 ### <div align="center">I'm Piyush, a Web developer based in India.</div>  
@@ -16,6 +16,9 @@ In more spare time, I like to binge watching animes
   
 
 - ⚡ Fun fact: I use tabs over spaces  
+
+## 📚 Writing
+Besides developing, I also write on [Medium](https://medium.com/@piyushyadav0191)
   
 
 <br/>  
