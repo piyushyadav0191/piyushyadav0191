@@ -12,7 +12,7 @@
 In more spare time, I like to binge watching animes  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to Modern Full stack or Mern Stack and related technologies  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
