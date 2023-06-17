@@ -118,8 +118,6 @@ Besides developing, I also write on [Medium](https://medium.com/@piyushyadav0191
 
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=azkniay3q3u68j0ohpltjfyi2&cover_image=true&theme=default&show_offline=false&background_color=121212" /></div>  
-
 <br/>  
 
 <div align="center">
