@@ -110,24 +110,6 @@ Besides developing, I also write on [Medium](https://medium.com/@piyushyadav0191
 
 <br/>  
 
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=piyushyadav0191&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-
 <br />
 
 <!-- GitHub Stats -->
@@ -139,5 +121,14 @@ Besides developing, I also write on [Medium](https://medium.com/@piyushyadav0191
     <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=piyushyadav0191&theme=tokyonight" alt="GitHub Streak" />
   </p>
 </div>
+
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=piyushyadav0191&&style=flat-square" align="center" />
+</div>  
+  
+
+<br/>  
 
 ----
