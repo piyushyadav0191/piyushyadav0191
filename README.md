@@ -15,7 +15,8 @@ In more spare time, I like to binge watching animes
 - ❓ Ask me about anything related to Modern Full stack or Mern Stack and related technologies  
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ Fun fact: I use tabs over spaces
+- ❓ Current Myth - I deleted 55+ repos of mine
 
 ## 📚 Writing
 Besides developing, I also write on [Medium](https://medium.com/@piyushyadav0191)
