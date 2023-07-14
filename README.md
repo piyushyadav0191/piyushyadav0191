@@ -130,4 +130,14 @@ Besides developing, I also write on [Medium](https://medium.com/@piyushyadav0191
 
 <br />
 
+<!-- GitHub Stats -->
+<div>
+  <h2>Stats📈</h2>
+
+  <p align="center">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=piyushyadav0191&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=piyushyadav0191&theme=tokyonight" alt="GitHub Streak" />
+  </p>
+</div>
+
 ----
