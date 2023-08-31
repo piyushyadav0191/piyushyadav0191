@@ -1,4 +1,4 @@
-<img src="https://github.com/piyushyadav0191/piyushyadav0191/assets/84402719/3ae6f042-8ceb-46fa-87f4-bbb2e2e1f13d" width="144" align="right" hspace="0" />
+<img src="https://github.com/piyushyadav0191/piyushyadav0191/assets/84402719/d41532a2-10d0-44e0-9806-dfc5c745e282" width="144" align="right" hspace="0" />
 
 # 👋 &nbsp;Hello, world! <br/> I am Piyush Yadav
 
