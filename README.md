@@ -49,5 +49,5 @@ If you are interested in knowing more about me, you can [check out my **Personal
 </details>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=piyushyadav0191&&style=flat-square" align="center" />
+<img src="https://img.shields.io/static/v1?label=Profile+views&message=20,102&color=blue" align="center" />
 </div>  
