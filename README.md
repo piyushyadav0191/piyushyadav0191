@@ -6,6 +6,8 @@ I'm a passionate and creative full-stack software engineer from [India](https://
 
 I consider myself a curious and inquisitive person and a continuous learner, so on my spare time I like to work on side projects and try to keep learning new stuff to improve my skillset.
 
+Big ol fan of Theo Browne
+
 If you are interested in knowing more about me, you can [check out my **Personal Website** ⚡️](https://heypiyush.vercel.app)
 
 **You can find me on:**
