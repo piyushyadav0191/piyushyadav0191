@@ -8,7 +8,7 @@ I consider myself a curious and inquisitive person and a continuous learner, so 
 
 Big ol fan of Theo Browne
 
-If you are interested in knowing more about me, you can [check out my **Personal Website** ⚡️](https://heypiyush.vercel.app)
+If you are interested in knowing more about me, you can [check out my **Personal Website** ⚡️](https://ypiyush.tech)
 
 **You can find me on:**
 
