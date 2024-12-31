@@ -20,7 +20,7 @@ If you are interested in knowing more about me, you can [check out my **Personal
 
 <div align="center">
   
-[![Piyush Yadav's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=piyushyadav0191&theme=algolia&show_icons=true)](https://github.com/saifurrahman1193)
+[![Piyush Yadav's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=piyushyadav0191&theme=ambient_gradient&show_icons=true)](https://github.com/saifurrahman1193)
 </div>
 <div align="center">
 <img src="https://img.shields.io/static/v1?label=Profile+views&message=50,282&color=blue" align="center" />
