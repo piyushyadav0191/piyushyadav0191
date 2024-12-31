@@ -25,4 +25,3 @@ If you are interested in knowing more about me, you can [check out my **Personal
 <div align="center">
 <img src="https://img.shields.io/static/v1?label=Profile+views&message=50,282&color=blue" align="center" />
 </div>  
-[![Mohammad Saifur Rahman's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=saifurrahman1193&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/saifurrahman1193)
