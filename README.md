@@ -10,7 +10,7 @@ Big ol fan of Theo Browne
 
 Fun fact - My private repos are 3 times greater than public repos
 
-If you are interested in knowing more about me, you can [check out my **Personal Website** ⚡️](https://ypiyush.tech)
+If you are interested in knowing more about me, you can [check out my **Personal Website** ⚡️](https://ypiyush.live)
 
 **You can find me on:**
 
