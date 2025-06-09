@@ -19,5 +19,5 @@ If you are interested in knowing more about me, you can [check out my **Personal
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/piyushyadav0191/)
 
 <div align="center">
-<img src="https://img.shields.io/static/v1?label=Profile+views&message=50,282&color=blue" align="center" />
+<img src="https://img.shields.io/static/v1?label=Profile+views&message=61,359&color=blue" align="center" />
 </div>  
